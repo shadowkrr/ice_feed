@@ -1,7 +1,5 @@
 <?php
 require_once 'composer/vendor/autoload.php';
-#require_once 'util/chatwork.php';
-#require_once 'util/nifty_push.php';
 use Goutte\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
